@@ -60,6 +60,7 @@ Also to git gut at Python.
 To clone and run this application, you'll need [Git](https://git-scm.com) (optional, if you just download the repo) and [Python](https://www.python.org/) (required) installed on your computer. 
 
 You will also need to create a discord bot (you need to generate bot token) and get a RIOT API key.
+
 [Discord Developer Portal](https://discord.com/developers/applications)
 
 ![Bot Token](images/discord-token.png)
